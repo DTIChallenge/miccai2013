@@ -8,7 +8,7 @@ group: navigation
 
 ## Workshop Faculty
 * [Sonia Pujol, Ph.D., Surgical Planning Laboratory, Harvard Medical School](http://www.spl.harvard.edu/pages/People/spujol)
-* Ron Kikinis, M.D., Surgical Planning Laboratory,  Harvard Medical School
+* [Ron Kikinis, M.D., Surgical Planning Laboratory,  Harvard Medical School](http://www.spl.harvard.edu/pages/People/kikinis)
 * Martin Styner, Ph.D., Neuro Image Research and Analysis Laboratory, University of North Carolina
 * Alexandra Golby, M.D., Department of Neurosurgery, Harvard Medical School
 * Arya Nabavi, M.D., Department of Neurosurgery, University Hospital Schleswig-Holstein, Kiel, Germany
