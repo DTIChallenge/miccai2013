@@ -9,8 +9,8 @@ group: navigation
 ## Workshop Faculty
 * [Sonia Pujol, Ph.D., Surgical Planning Laboratory, Harvard Medical School](http://www.spl.harvard.edu/pages/People/spujol)
 * [Ron Kikinis, M.D., Surgical Planning Laboratory,  Harvard Medical School](http://www.spl.harvard.edu/pages/People/kikinis)
-* Martin Styner, Ph.D., Neuro Image Research and Analysis Laboratory, University of North Carolina
 * Alexandra Golby, M.D., Department of Neurosurgery, Harvard Medical School
+* Martin Styner, Ph.D., Neuro Image Research and Analysis Laboratory, University of North Carolina
 * Arya Nabavi, M.D., Department of Neurosurgery, University Hospital Schleswig-Holstein, Kiel, Germany
 * Guido Gerig, Ph.D.,The Scientific Computing and Imaging Institute, University of Utah
 * William Wells, Ph.D., Surgical Planning Laboratory, Harvard Medical School
@@ -22,3 +22,4 @@ group: navigation
 * Dr. Sandrine De Ribaupierre, Division of Neurosurgery, Western University, London, Ontario, Canada
 * Dr. David Fortin, Department of Neurosurgery, Sherbrooke University, Sherbrooke, Canada
 * Dr. Francesco Cardinale, Epilepsy and Parkinson Surgery Centre "Claudio Munari", Milan, Italy
+* Dr. Xiaolei Chen, PLA General Hospital, Beijing, China
