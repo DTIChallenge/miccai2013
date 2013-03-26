@@ -14,7 +14,8 @@ The corticospinal tract (CST) starts in the cerebral cortex and terminates in th
 
 
 ## Evaluation 
-The tractography submissions will be evaluated based on a set of quantitative and qualitative criteria.The quantitative evaluation of the tracts will be performed using five metrics
+The tractography submissions will be evaluated based on a set of quantitative and qualitative criteria.
+The quantitative evaluation of the tracts will be performed using five metrics:
 *fiber profile on diffusion parameters
 * correlation and absolute profile distance measures
 * fiber geometry based on the Dice coefficient for volumetric overlap 
