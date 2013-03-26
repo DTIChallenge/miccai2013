@@ -22,3 +22,9 @@ The quantitative evaluation of the tracts will be performed using five metrics:
 * Hausdorff distances between bundles
 * STAPLE sensitivity and specificity score
 The qualitative evaluation of the tract reconstruction will be performed by expert neurosurgeons and radiologists. Clinical evaluation will focus on the anatomical accuracy of the corticospinal and peritumoral tract reconstructions, the presence of false-positive and false-negative tracts, and the depiction of the spatial relation between the tumor and the tracts. 
+
+## Previous Editions
+
+[2nd Edition: MICCAI 2012 DTI Tractography Challenge, Nice, France] (http://projects.iq.harvard.edu/dti_challenge)
+
+[1st Edition, MICCAI 2011 DTI Tractography Challenge, Toronto, Canada] (http://www.na-mic.org/Wiki/index.php/Events:_DTI_Tractography_Challenge_MICCAI_2011)
