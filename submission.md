@@ -6,6 +6,10 @@ description: ""
 ---
 {% include JB/setup %}
 
+
+##How to participate in the challenge
+To participate in the DTI Tractography challenge, please download and fill in the letter of intent for participation, and return it signed to Sonia Pujol (spujol at bwh.harvard.edu). After successful registration of your team, you will receive the link to access the workshop datasets. 
+
 ## Submission Guidelines
 
 * Participants are invited to submit a zip archive file containing their tractography results for the reconstruction of the left and right corticospinal tract in two neurosurgical cases.
