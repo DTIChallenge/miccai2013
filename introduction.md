@@ -6,6 +6,7 @@ description: ""
 ---
 {% include JB/setup %}
 ## DTI Tractography for Neurosurgery
+<img align="right" src="http://www.na-mic.org/Wiki/images/0/04/Alex.png" width="200"/>
 Diffusion-MR tractography has the potential to help neurosurgeons determine tumor resection boundaries in functional areas involving eloquent white matter pathways. However, the validity of tractography results in clinical settings has not yet been established. This workshop aims to evaluate the performances of tractography algorithms in the reconstruction of peritumoral anatomy and corticospinal tract trajectory on pre-operative and post-operative diffusion data from patients presenting with a tumor in or near the motor system.
 
 ## Anatomy of the corticospinal tract 
