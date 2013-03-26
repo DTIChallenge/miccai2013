@@ -10,13 +10,15 @@ group: navigation
 * [Sonia Pujol, Ph.D., Surgical Planning Laboratory, Harvard Medical School](http://www.spl.harvard.edu/pages/People/spujol)
 * [Ron Kikinis, M.D., Surgical Planning Laboratory,  Harvard Medical School](http://www.spl.harvard.edu/pages/People/kikinis)
 * Alexandra Golby, M.D., Department of Neurosurgery, Harvard Medical School
-* Martin Styner, Ph.D., Neuro Image Research and Analysis Laboratory, University of North Carolina
 * Arya Nabavi, M.D., Department of Neurosurgery, University Hospital Schleswig-Holstein, Kiel, Germany
+* Martin Styner, Ph.D., Neuro Image Research and Analysis Laboratory, University of North Carolina
 * Guido Gerig, Ph.D.,The Scientific Computing and Imaging Institute, University of Utah
 * William Wells, Ph.D., Surgical Planning Laboratory, Harvard Medical School
 * Carl-Fredrik Westin, Ph.D., Laboratory of Mathematics in Imaging, Harvard Medical School
+* Carlo Pierpaoli, M.D., National Institutes of Child Heath and Human Development, National Institutes of Health
 
-## Neurosurgeons: 
+
+## DTI Challenge Neurosurgeons 
 * Dr. Alexandra Golby, Department of Neurosurgery, Brigham and Women's Hospital, Harvard Medical School, Boston, USA
 * Dr. Arya Nabavi,  Department of Neurosurgery, University Hospital Schleswig-Holstein, Kiel, Germany
 * Dr. Sandrine De Ribaupierre, Division of Neurosurgery, Western University, London, Ontario, Canada
