@@ -9,7 +9,9 @@ description: ""
 
 ## Challenge Datasets
 
-The MICCAI 2013 DTI Challenge datasets consist of a series of anonymized anatomical and diffusion scans acquired on neurosurgical cases, with associated tumor and edema region segmentation. The datasets will be available for download to the DTI Challenge participants on the XNAT Central website. 
+The MICCAI 2013 DTI Challenge datasets will consist of DWI, T1-weighted and T2-weighted anonymized scans acquired on four neurosurgical cases. The data will include pre-segmented tumor and edema region.
+
+The neurosurgical datasets will be available for download to the DTI Challenge participants on the XNAT Central website. 
 
 
 
