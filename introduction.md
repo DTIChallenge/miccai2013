@@ -12,7 +12,7 @@ Diffusion-MR tractography has the potential to help neurosurgeons determine tumo
 The corticospinal tract (CST) starts in the cerebral cortex and terminates in the spinal cord. The CST courses through the posterior limb of the internal capsule, the cerebral peduncle of the midbrain, the ventral pons, the ventral surface of the medulla, and decussates in the lower medulla. The picture shows the CST (white) and surrounding structures: putamen (blue), caudate nucleus (brown), lateral ventricle (green) and motor cortex (yellow).
 
 <div align="right">
-<img src="http://www.miccai2013.org/data/files/miccai2013_logo.jpg" width="60"/></a>
+<img src="http://www.na-mic.org/Wiki/index.php/File:CST-SPL-PNL-Atlas-2008-Issue.png" width="200"/></a>
 </div align>
 ## Evaluation 
 The tractography submissions will be evaluated based on a set of quantitative and qualitative criteria.The quantitative evaluation of the tracts will be performed using five metrics
