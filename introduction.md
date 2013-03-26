@@ -8,8 +8,6 @@ description: ""
 ## DTI Tractography for Neurosurgery
 Diffusion-MR tractography has the potential to help neurosurgeons determine tumor resection boundaries in functional areas involving eloquent white matter pathways. However, the validity of tractography results in clinical settings has not yet been established. This workshop aims to evaluate the performances of tractography algorithms in the reconstruction of peritumoral anatomy and corticospinal tract trajectory on pre-operative and post-operative diffusion data from patients presenting with a tumor in or near the motor system.
 
-The DTI Tractography Challenge will consist in reconstructing the corticospinal tract from a set of neurosurgical cases.
-
 ## Anatomy of the corticospinal tract 
 The corticospinal tract (CST) starts in the cerebral cortex and terminates in the spinal cord. The CST courses through the posterior limb of the internal capsule, the cerebral peduncle of the midbrain, the ventral pons, the ventral surface of the medulla, and decussates in the lower medulla. The picture shows the CST (white) and surrounding structures: putamen (blue), caudate nucleus (brown), lateral ventricle (green) and motor cortex (yellow).
 
