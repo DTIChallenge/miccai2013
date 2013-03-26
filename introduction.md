@@ -16,12 +16,14 @@ The corticospinal tract (CST) starts in the cerebral cortex and terminates in th
 
 ## Evaluation 
 The tractography submissions will be evaluated based on a set of quantitative and qualitative criteria.
+
 The quantitative evaluation of the tracts will be performed using five metrics:
-*fiber profile on diffusion parameters
+* fiber profile on diffusion parameters
 * correlation and absolute profile distance measures
 * fiber geometry based on the Dice coefficient for volumetric overlap 
 * Hausdorff distances between bundles
 * STAPLE sensitivity and specificity score
+
 The qualitative evaluation of the tract reconstruction will be performed by expert neurosurgeons and radiologists. Clinical evaluation will focus on the anatomical accuracy of the corticospinal and peritumoral tract reconstructions, the presence of false-positive and false-negative tracts, and the depiction of the spatial relation between the tumor and the tracts. 
 
 ## Previous Editions
