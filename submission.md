@@ -8,7 +8,7 @@ description: ""
 
 
 ##How to participate in the challenge
-To participate in the DTI Tractography challenge, please download and fill in the letter of intent for participation, and return it signed to Sonia Pujol (spujol at bwh.harvard.edu). After successful registration of your team, you will receive the link to access the workshop datasets. 
+To participate in the DTI Tractography challenge, please download and fill in the <a href="http://www.na-mic.org/Wiki/images/0/03/LetterOfIntent_DTIChallenge_MICCAI2013.pdf">letter of intent for participation </a>, and return it signed to Sonia Pujol (spujol at bwh.harvard.edu). After successful registration of your team, you will receive the link to access the workshop datasets. 
 
 ## Submission Guidelines
 
