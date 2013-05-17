@@ -8,11 +8,11 @@ description: ""
 
 
 ##How to participate in the challenge
-To participate in the DTI Tractography challenge, please download and fill in the <a href="http://www.na-mic.org/Wiki/images/0/03/LetterOfIntent_DTIChallenge_MICCAI2013.pdf">letter of intent for participation</a>, and return it signed to Sonia Pujol (spujol at bwh.harvard.edu). After successful registration of your team, you will receive the link to access the workshop datasets. 
+To participate in the DTI Tractography challenge, please download and fill in the <a href="http://www.na-mic.org/Wiki/images/0/03/LetterOfIntent_DTIChallenge_MICCAI2013.pdf">letter of intent for participation</a>, and return it signed to Sonia Pujol (spujol at bwh.harvard.edu). After registration of your team, you will receive the link to access the workshop datasets. 
 
 ## Submission Guidelines
 
-* Participants are invited to submit a zip archive file containing their tractography results for the reconstruction of the left and right corticospinal tract in two neurosurgical cases.
+* Participants are invited to submit a zip archive file containing their results for the reconstruction of the left and right corticospinal tracts in two neurosurgical cases.
 * The results should be submitted as a zip archive 'miccai2013DTIChallenge_firstAuthorName.zip'.
 * All results should be in the original DWI image space.
 * The tractography results should include 1) the 3D coordinate of the tracts in the VTK-ASCII file format (vtkPolyData), 2) the envelope of the tracts in the ITK-readable Nrrdfile format,  3) a coronal view of the tract overlaid on a FA image in png, and 4) the regions of interest used for the reconstruction in the ITK-readable Nrrdfile format.
