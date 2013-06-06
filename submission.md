@@ -12,7 +12,7 @@ To participate in the DTI Tractography challenge, please download and fill in th
 
 ## Submission Guidelines
 
-* Participants are invited to submit a zip archive file containing their results for the reconstruction of the left and right corticospinal tracts in two neurosurgical cases.
+* Participants are invited to submit a zip archive file containing their results for the reconstruction of the left and right corticospinal tracts and peritumoral white matter anatomy in two neurosurgical cases.
 * The results should be submitted as a zip archive 'miccai2013DTIChallenge_firstAuthorName.zip'.
 * All results should be in the original DWI image space.
 * The tractography results should include 1) the 3D coordinate of the tracts in the VTK-ASCII file format (vtkPolyData), 2) the envelope of the tracts in the ITK-readable Nrrdfile format,  3) a coronal view of the tract overlaid on a FA image in png, and 4) the regions of interest used for the reconstruction in the ITK-readable Nrrdfile format.
