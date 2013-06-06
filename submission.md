@@ -26,6 +26,7 @@ To participate in the DTI Tractography challenge, please download and fill in th
 * Supplementary materials such as short videos, are encouraged, but not mandatory.
 * Papers should be formatted in Lecture Notes in Computer Science style. The file format for submission is Adobe Portable Document Format (PDF). Other formats will not be accepted.
 * Once you have completed the analysis, upload your workshop paper and results at the location of your choice, and send the url to access them to spujol at bwh.harvard.edu to receive a confirmation of your submission.
+* File format guidelines for the tractography results can be accommodated. Please contact us with any question on file formats and/or software constraints.
 
 ## Important dates
 
