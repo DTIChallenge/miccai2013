@@ -30,8 +30,8 @@ To participate in the DTI Tractography challenge, please download and fill in th
 
 ## Important dates
 
-* June 19, 2013: Workshop paper submission deadline
-* July 2, 2013: Workshop paper acceptance
-* July 15, 2013: Deadline for camera ready papers
+* June 24, 2013: Workshop paper and tracts submission deadline (extended)
+* July 2, 2013: Notification of acceptance
+* July 15, 2013: Deadline for camera ready papers and tracts
 
 
