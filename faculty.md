@@ -15,6 +15,7 @@ group: navigation
 * Guido Gerig, Ph.D.,The Scientific Computing and Imaging Institute, University of Utah
 * William Wells, Ph.D., Surgical Planning Laboratory, Harvard Medical School
 * Carl-Fredrik Westin, Ph.D., Laboratory of Mathematics in Imaging, Harvard Medical School
+* Laurent Chauvin, M.S., Department of Radiology, Brigham and Women's Hospital
 * Carlo Pierpaoli, M.D., National Institutes of Child Heath and Human Development, National Institutes of Health
 
 
