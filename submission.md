@@ -2,7 +2,7 @@
 layout: page
 title: Submission
 group: navigation
-weight: 7
+weight: 4
 description: ""
 ---
 {% include JB/setup %}
