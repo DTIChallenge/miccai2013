@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Faculty"
-description: ""
 group: navigation
+weight : 2
+description: ""
 ---
 {% include JB/setup %}
 
