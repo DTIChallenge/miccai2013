@@ -2,6 +2,7 @@
 layout: page
 title: Submission
 group: navigation
+weigth: 4
 description: ""
 ---
 {% include JB/setup %}
