@@ -2,6 +2,7 @@
 layout: page
 title: Acknowledgement
 group: navigation
+weight: 6
 description: ""
 ---
 {% include JB/setup %}
