@@ -2,6 +2,7 @@
 layout: page
 title: Program
 group: navigation
+weight: 3
 description: ""
 ---
 {% include JB/setup %}
