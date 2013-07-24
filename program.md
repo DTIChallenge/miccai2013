@@ -7,7 +7,7 @@ description: ""
 ---
 {% include JB/setup %}
 # Tentative Agenda
-*  On-site challenge: tractography analysis of a tumor case by participating teams
+*  On-site challenge: tractography analysis of neurosurgical cases by participating teams
 *  9:00-9:20: DTI Validation Challenge, Opening Remarks and Introduction (Sonia Pujol)
 *  9:20-9:30: Neurosurgical Cases Presentation (Alexandra Golby)
 *  9:30-10:15: Keynote Speaker Lecture 
