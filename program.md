@@ -11,7 +11,7 @@ description: ""
 *  9:20-9:30: Neurosurgical Cases Presentation (Alexandra Golby)
 *  9:30-10:15: Keynote Speaker Lecture 
 *  10:15-11:00: DTI Tractography Session  - Part 1: presentation of methods and results by contestants
-*  11:00-11:15: Keynote Speaker Lecture  
+*  11:00-11:15: Coffee Break
 *  11:15-12:00: DTI Tractography Session  - Part 2: presentation of methods and results by contestants
 *  12:00-13:00: Lunch Break 
 *  13:00-13:45: A View from the Clinic (Arya Nabavi, Alexandra Golby)
