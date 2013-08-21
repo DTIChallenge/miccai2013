@@ -11,13 +11,13 @@ description: ""
 *  9:20-9:30: Neurosurgical Cases Presentation (Alexandra Golby)
 *  9:30-10:15: Keynote Speaker Lecture 
 *  10:15-11:00: DTI Tractography Session - Part 1 
-*  *Tracking Corticospinal Tract with Diffusion Tensor Field Replacement for Cancelling Crossing with Superior Longitudinal Fasciculus.* Yoshitaka Masutani, The University of Tokyo, Japan
+*  *Tracking Corticospinal Tract with Diffusion Tensor Field Replacement for Cancelling Crossing with Superior Longitudinal Fasciculus.*### Yoshitaka Masutani, The University of Tokyo, Japan
 *  *Improving White Matter Tractography by Resolving the Challenges of Edema.* Jérémy Lecoeur, University of Pennsylvania, USA 
 *  *Tractography of the Corticospinal and Peritumoral Tracts of Three Patients.* Ye Li, PLA General Hospital, Beijing, China
 *  *Tensor Deflection Tractography using Local Fibre-Crossing Maps for Neurosurgical Planning.* Ali Khan, Western University, London, Ontario
 *  *Tracking the Cortico-Spinal Tract from Low Spatial and Angular Resolution Diffusion MRI.* Aymeric Stamm, INRIA, University of Rennes, France
-*11:00-11:15: Coffee Break
-*11:15-12:00: DTI Tractography Session - Part 2 
+*  11:00-11:15: Coffee Break
+*  11:15-12:00: DTI Tractography Session - Part 2 
 *  *Performance Evaluation of Default Module for Interactive Tractography Seeding.* Manuba Tamura, Tokyo Women’s Medical University, Japan
 *  *Local Atlas-based Adaptive Fiber Tracking.* Jan Klein, Franhofer MEVIS, Germany
 *  *DTI Tractography Challenge 2013 - MITK Global Tractography.* Peter Neher, German Cancer Research Center, Germany
