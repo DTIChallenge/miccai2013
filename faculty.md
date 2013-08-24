@@ -24,6 +24,12 @@ description: ""
 * Dr. Alexandra Golby, Department of Neurosurgery, Brigham and Women's Hospital, Harvard Medical School, Boston, USA
 * Dr. Arya Nabavi,  Department of Neurosurgery, University Hospital Schleswig-Holstein, Kiel, Germany
 * Dr. Sandrine De Ribaupierre, Division of Neurosurgery, Western University, London, Ontario, Canada
-* Dr. David Fortin, Department of Neurosurgery, Sherbrooke University, Sherbrooke, Canada
-* Dr. Francesco Cardinale, Epilepsy and Parkinson Surgery Centre "Claudio Munari", Milan, Italy
+* Dr. Yoshi Muragaki, Tokyo Women's University, Tokyo, Japan
+* Dr. Yasukazu Kajita, Nagoya University, Nagoya, Japan
 * Dr. Xiaolei Chen, PLA General Hospital, Beijing, China
+* Dr. Li Ye, PLA General Hospital, Beijing, China
+* Dr. Luke Macyszyn, UPenn University, Philadelphia, USA
+* Dr. David Fortin, Department of Neurosurgery, Sherbrooke University, Sherbrooke, Canada (DTI Challenge'12)
+* Dr. Francesco Cardinale, Epilepsy and Parkinson Surgery Centre "Claudio Munari", Milan, Italy (DTI Challenge'12)
+
+
