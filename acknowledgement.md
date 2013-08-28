@@ -11,4 +11,5 @@ description: ""
 * Dominik Meier, Ph.D., Brigham and Women's Hospital, Harvard Medical School, Boston, MA
 * Isaiah Norton, M.S., Brigham and Women's Hospital, Harvard Medical School, Boston, MA
 * Steve Pieper, Ph.D., Isomics Inc.
+* Laura Rigolo, M.Sc., Brigham and Women's Hospital, Harvard Medical School, Boston, MA
 * Junichi Tokuda, Ph.D., Brigham and Women's Hospital,  Harvard Medical School, Boston, MA
