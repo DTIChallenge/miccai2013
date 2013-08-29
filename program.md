@@ -9,7 +9,7 @@ description: ""
 *  8:00-9:30: On-site challenge: tractography analysis of neurosurgical cases by participating teams
 *  9:00-9:20: DTI Validation Challenge, Opening Remarks and Introduction (Sonia Pujol)
 *  9:20-9:30: Neurosurgical Cases Presentation (Alexandra Golby)
-*  9:30-10:15: Keynote Speaker Lecture 
+*  9:30-10:15: Keynote Lecture "Anatomical accuracy of Diffusion MRI tractography and connectivity" Carlo Pierpaoli, M.D., Ph.D., National Institutes of Health, Bethesda, USA
 *  10:15-11:00: DTI Tractography Session - Part 1 
 *  *Tracking Corticospinal Tract with Diffusion Tensor Field Replacement for Cancelling Crossing with Superior Longitudinal Fasciculus.* Yoshitaka Masutani, The University of Tokyo, Japan
 *  *Improving White Matter Tractography by Resolving the Challenges of Edema.* Jérémy Lecoeur, University of Pennsylvania, USA 
