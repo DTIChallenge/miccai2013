@@ -14,7 +14,7 @@ description: ""
 *  *Tracking Corticospinal Tract with Diffusion Tensor Field Replacement for Cancelling Crossing with Superior Longitudinal Fasciculus.* Yoshitaka Masutani, The University of Tokyo, Japan
 *  *Improving White Matter Tractography by Resolving the Challenges of Edema.* Jérémy Lecoeur, University of Pennsylvania, USA 
 *  *Tractography of the Corticospinal and Peritumoral Tracts of Three Patients.* Ye Li, PLA General Hospital, Beijing, China
-*  *Tensor Deflection Tractography using Local Fibre-Crossing Maps for Neurosurgical Planning.* Ali Khan, Western University, London, Ontario
+*  *Tensor Deflection Tractography using Local Fibre-Crossing Maps for Neurosurgical Planning.* Ali Khan, Western University, London, Ontario, Canada
 *  *Tracking the Cortico-Spinal Tract from Low Spatial and Angular Resolution Diffusion MRI.* Aymeric Stamm, INRIA, University of Rennes, France
 *  11:00-11:15: Coffee Break
 *  11:15-12:00: DTI Tractography Session - Part 2 
