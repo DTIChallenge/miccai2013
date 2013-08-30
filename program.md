@@ -13,7 +13,7 @@ description: ""
 * __9:30-10:15:__ Keynote Lecture _Anatomical accuracy of Diffusion MRI tractography and connectivity_ Carlo Pierpaoli, M.D., Ph.D., National Institutes of Health, Bethesda, USA
 * __10:15-11:00:__ DTI Tractography Session I
   * _Tracking Corticospinal Tract with Diffusion Tensor Field Replacement for Cancelling Crossing with Superior Longitudinal Fasciculus._* Yoshitaka Masutani, The University of Tokyo, Japan
-  * _Improving White Matter Tractography by Resolving the Challenges of Edema._* J&eacute;r&eacute;my Lecoeur, University of Pennsylvania, USA 
+  * _Improving White Matter Tractography by Resolving the Challenges of Edema._* Luke Macyszyn, J&eacute;r&eacute;my Lecoeur, University of Pennsylvania, USA 
   * _Tractography of the Corticospinal and Peritumoral Tracts of Three Patients._* Ye Li, PLA General Hospital, Beijing, China
   * _Tensor Deflection Tractography using Local Fibre-Crossing Maps for Neurosurgical Planning._* Ali Khan, Western University, London, Ontario, Canada
   * _Tracking the Cortico-Spinal Tract from Low Spatial and Angular Resolution Diffusion MRI._* Aymeric Stamm, INRIA, University of Rennes, France
