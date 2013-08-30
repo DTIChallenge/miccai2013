@@ -25,10 +25,10 @@ description: ""
   * _Anatomically Driven Corticospinal Tractography with UKF Tool and WMQL._* Eun Young Kim, University of Iowa, USA
   * _ICA-based Multi-Fiber DWI Tractography in Neurosurgical Planning._* Sinchai Tsao, University Of Southern California, USA
 * __12:00-13:00:__ Lunch Break 
-* __13:00-13:45:__ A View from the Clinic (Arya Nabavi, Yoshihiro Muragaki)
-* __13:45-15:15:__ Open Review Session of On-Site Cases 
-* __15:15-15:30:__ Coffee Break 
-* __15:30-15:50:__ Neurosurgical Cases Results (Sonia Pujol)
-* __15:50-17:00:__ Panel Discussion: Challenge Results and Future Directions with Teams and Jury Members 
+* __13:00-14:00:__ A View from the Clinic (Arya Nabavi, Yoshihiro Muragaki)
+* __14:00-15:30:__ Open Review Session of On-Site Cases 
+* __15:30-15:45:__ Coffee Break 
+* __15:45-16:00:__ Neurosurgical Cases Results (Sonia Pujol)
+* __16:00-17:00:__ Panel Discussion: Challenge Results and Future Directions with Teams and Jury Members (Ragini Verma, Jan Klein, Luke Macyszyn, Ron Kikinis, Carlo Pierpaoli, Sonia Pujol)
 
 
