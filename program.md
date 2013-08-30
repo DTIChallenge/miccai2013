@@ -29,6 +29,5 @@ description: ""
 * __14:00-15:30:__ Open Review Session of On-Site Cases 
 * __15:30-15:45:__ Coffee Break 
 * __15:45-16:00:__ Neurosurgical Cases Results (Sonia Pujol)
-* __16:00-17:00:__ Panel Discussion: Challenge Results and Future Directions with Teams and Jury Members (Ragini Verma, Jan Klein, Luke Macyszyn, Ron Kikinis, Carlo Pierpaoli, Sonia Pujol)
-
+* __16:00-17:00:__ Panel Discussion: Challenge Results and Future Directions with Teams and Jury Members 
 
