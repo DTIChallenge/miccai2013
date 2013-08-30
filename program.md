@@ -6,6 +6,7 @@ weight: 3
 description: ""
 ---
 {% include JB/setup %}
+
 * __8:00-9:30:__ _On-site challenge: tractography analysis of neurosurgical casesby participating teams
 * __9:00-9:20:__ DTI Validation Challenge, Opening Remarks and Introduction (Sonia Pujol)
 * __9:20-9:30:__ Neurosurgical Cases Presentation (Alexandra Golby)
