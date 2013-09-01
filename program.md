@@ -21,16 +21,11 @@ The third edition of the MICCAI DTI Tractography Challenge involves 10 tractogra
   * _Tracking the Cortico-Spinal Tract from Low Spatial and Angular Resolution Diffusion MRI._ Aymeric Stamm, Olivier Commowick, Patrick Perez, Christian Barillot. INSERM/CNRS/INRIA, University of Rennes 1, France 
 * __11:00-11:15:__ Coffee Break
 * __11:15-12:00:__ DTI Tractography Session II
-  * _Performance Evaluation of Default Module for Interactive Tractography Seeding._ Manuba Tamura, Yoshiyuki Konishi, Takashi Suzuki.
-	Tokyo Women's Medical University, Japan
-  * _Local Atlas-based Adaptive Fiber Tracking._ Jan Klein, Monique Meuschke, Benjamin Geisler, Horst K. Hahn.
-	Fraunhofer MEVIS, Germany
-  * _DTI Tractography Challenge 2013 - MITK Global Tractography._ Peter F. Neher, Bram Stieltjes, Klaus H. Fritzsche.
-	German Cancer Research Center, Germany 
-  * _Anatomically Driven Corticospinal Tractography with UKF Tool and WMQL._ Eun Young Kim, Joy Matsui, Hans Johnson.
-	University of Iowa, USA
-  * _ICA-based Multi-Fiber DWI Tractography in Neurosurgical Planning._ Sinchai Tsao, Niharika Gajawelli, Peter A. Michel, Darryl Hwang, Yi Lao, Fernando Yepes, Vidya Rajagopalan, Meng Law, Natasha Lepore.
-	University of Southern California, USA
+  * _Performance Evaluation of Default Module for Interactive Tractography Seeding._ Manuba Tamura, Yoshiyuki Konishi, Takashi Suzuki. Tokyo Women's Medical University, Japan
+  * _Local Atlas-based Adaptive Fiber Tracking._ Jan Klein, Monique Meuschke, Benjamin Geisler, Horst K. Hahn. Fraunhofer MEVIS, Germany
+  * _DTI Tractography Challenge 2013 - MITK Global Tractography._ Peter F. Neher, Bram Stieltjes, Klaus H. Fritzsche. German Cancer Research Center, Germany 
+  * _Anatomically Driven Corticospinal Tractography with UKF Tool and WMQL._ Eun Young Kim, Joy Matsui, Hans Johnson. University of Iowa, USA
+  * _ICA-based Multi-Fiber DWI Tractography in Neurosurgical Planning._ Sinchai Tsao, Niharika Gajawelli, Peter A. Michel, Darryl Hwang, Yi Lao, Fernando Yepes, Vidya Rajagopalan, Meng Law, Natasha Lepore. University of Southern California, USA
 * __12:00-13:00:__ Lunch Break 
 * __13:00-14:15:__ A View from the Clinic: The Neurosurgeon's Perspective on DTI Tractography 
   *  "Fiber tract preparations" _Arya Nabavi M.D., University Hospital Schleswig-Holstein, Germany_
