@@ -39,6 +39,6 @@ The University of Tokyo Hospital, Japan
   *  _Luke Macyszyn, M.D. University of Pennsylvania, USA_
 * __14:15-15:15:__ Open Review Session of On-Site Cases 
 * __15:15-15:30:__ Coffee Break 
-* __15:30--15:45:__ Neurosurgical Cases Results (Sonia Pujol)
+* __15:30-15:45:__ Neurosurgical Cases Results (Sonia Pujol)
 * __15:45-17:00:__ Panel Discussion with Teams and Jury Members: DTI Challenge Outcomes and Future Directions 
 
