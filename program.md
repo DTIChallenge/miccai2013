@@ -14,8 +14,7 @@ The third edition of the MICCAI DTI Tractography Challenge involves 10 tractogra
 * __9:15-9:30:__ Neurosurgical Cases Presentation, Sonia Pujol, Ph.D., Harvard Medical School
 * __9:30-10:15:__ Keynote Lecture _Anatomical accuracy of Diffusion MRI tractography and connectivity._ Carlo Pierpaoli, M.D., Ph.D., National Institutes of Health, Bethesda, USA
 * __10:15-11:00:__ DTI Tractography Session I
-  * _Tracking Corticospinal Tract with Diffusion Tensor Field Replacement for Cancelling Crossing with Superior Longitudinal Fasciculus._ Yoshitaka Masutani, Yuichi Suzuki, Kenji Ino.
-The University of Tokyo Hospital, Japan
+  * _Tracking Corticospinal Tract with Diffusion Tensor Field Replacement for Cancelling Crossing with Superior Longitudinal Fasciculus._ Yoshitaka Masutani, Yuichi Suzuki, Kenji Ino. The University of Tokyo Hospital, Japan
   * _Improving White Matter Tractography by Resolving the Challenges of Edema._ Jérémy Lecoeur, Emmanuel Caruyer, Luke Macyszyn,  Ragini Verma. University of Pennsylvania, USA
   * _Tractography of the Corticospinal and Peritumoral Tracts of Three Patients._ Ye Li, Xiaolei Chen. Chinese PLA General Hospital, China
   * _Tensor Deflection Tractography using Local Fibre-Crossing Maps for Neurosurgical Planning._ Ali Khan, Maged Goubran, Jonathan C. Lau, Roy Eagleson, Terry M. Peters, Sandrine de Ribaupierre. Western University, London, Ontario, Canada
