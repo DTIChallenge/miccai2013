@@ -34,7 +34,7 @@ The University of Tokyo Hospital, Japan
 	University of Southern California, USA
 * __12:00-13:00:__ Lunch Break 
 * __13:00-14:15:__ A View from the Clinic: The Neurosurgeon's Perspective on DTI Tractography 
-  *  _Arya Nabavi M.D., University Hospital Schleswig-Holstein, Germany_
+  *  "Fiber tract preparation" _Arya Nabavi M.D., University Hospital Schleswig-Holstein, Germany_
   *  _Yoshihiro Muragaki M.D., Ph.D., Tokyo Women's Medical University, Japan_
   *  _Yasukazu Kajita, M.D, Ph.D., Nagoya University Graduate School of Medicine, Japan_
   *  _Sandrine De Ribaupierre, M.D., Western University, 	Ontario, Canada_
