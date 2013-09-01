@@ -43,4 +43,6 @@ The University of Tokyo Hospital, Japan
 * __15:15-15:30:__ Coffee Break 
 * __15:30-15:45:__ Neurosurgical Cases Results (Sonia Pujol)
 * __15:45-17:00:__ Panel Discussion with Teams and Jury Members: DTI Challenge Outcomes and Future Directions 
+ 
+Workshop Location: Room ES021, Toyoda auditorium, Nagoya University
 
