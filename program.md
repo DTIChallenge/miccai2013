@@ -7,6 +7,8 @@ description: ""
 ---
 {% include JB/setup %}
 
+The third edition of the MICCAI DTI Tractography Challenge involves 10 tractography teams and 9 neurosurgeons.
+
 * __8:00-9:30:__ On-site challenge: tractography analysis of neurosurgical casesby participating teams
 * __8:45-9:15:__ DTI Validation Challenge, Opening Remarks and Introduction (Sonia Pujol)
 * __9:15-9:30:__ Neurosurgical Cases Presentation (Alexandra Golby)
