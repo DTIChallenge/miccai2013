@@ -10,8 +10,8 @@ description: ""
 The third edition of the MICCAI DTI Tractography Challenge involves 10 tractography teams and 9 neurosurgeons.
 
 * __8:00-9:30:__ On-site challenge: tractography analysis of neurosurgical casesby participating teams
-* __8:45-9:15:__ DTI Validation Challenge, Opening Remarks and Introduction (Sonia Pujol)
-* __9:15-9:30:__ Neurosurgical Cases Presentation (Alexandra Golby)
+* __8:45-9:15:__ The MICCAI DTI Tractography Challenge, Opening Remarks and Introduction, Sonia Pujol, Ph.D., Harvard Medical School
+* __9:15-9:30:__ Neurosurgical Cases Presentation, Sonia Pujol, Ph.D., Harvard Medical School
 * __9:30-10:15:__ Keynote Lecture _Anatomical accuracy of Diffusion MRI tractography and connectivity._ Carlo Pierpaoli, M.D., Ph.D., National Institutes of Health, Bethesda, USA
 * __10:15-11:00:__ DTI Tractography Session I
   * _Tracking Corticospinal Tract with Diffusion Tensor Field Replacement for Cancelling Crossing with Superior Longitudinal Fasciculus._ Yoshitaka Masutani, Yuichi Suzuki, Kenji Ino.
