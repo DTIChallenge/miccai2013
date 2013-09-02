@@ -1,0 +1,206 @@
+<gallery>
+
+
+     <items>
+          <item>
+
+
+
+
+               <source>/patient1_peritumoraltracts/images/1.jpg</source>
+               <thumb>/patient1_peritumoraltracts/images/t1.jpg</thumb>
+               <description>Team1
+</description>
+          </item>
+          <item>
+
+
+
+
+               <source>/patient1_peritumoraltracts/images/2.jpg</source>
+               <thumb>/patient1_peritumoraltracts/images/t2.jpg</thumb>
+               <description>Team 2
+</description>
+          </item>
+          <item>
+
+
+
+
+               <source>/patient1_peritumoraltracts/images/3.jpg</source>
+               <thumb>/patient1_peritumoraltracts/images/t3.jpg</thumb>
+               <description>Team 3</description>
+          </item>
+          <item>
+
+
+
+
+               <source>/patient1_peritumoraltracts/images/4.jpg</source>
+               <thumb>/patient1_peritumoraltracts/images/t4.jpg</thumb>
+               <description>Team 4</description>
+          </item>
+          <item>
+
+
+
+
+               <source>/patient1_peritumoraltracts/images/5.jpg</source>
+               <thumb>/patient1_peritumoraltracts/images/t5.jpg</thumb>
+               <description>Team 5</description>
+          </item>
+          <item>
+
+
+
+
+               <source>/patient1_peritumoraltracts/images/6.jpg</source>
+               <thumb>/patient1_peritumoraltracts/images/t6.jpg</thumb>
+               <description>Team 6</description>
+          </item>
+          <item>
+
+
+
+
+               <source>/patient1_peritumoraltracts/images/7.jpg</source>
+               <thumb>/patient1_peritumoraltracts/images/t7.jpg</thumb>
+               <description>Team 7</description>
+          </item>
+          <item>
+
+
+
+
+               <source>/patient1_peritumoraltracts/images/8.jpg</source>
+               <thumb>/patient1_peritumoraltracts/images/t8.jpg</thumb>
+               <description>Team 8</description>
+          </item>
+          <item>
+
+
+
+
+               <source>/patient1_peritumoraltracts/images/9.jpg</source>
+               <thumb>/patient1_peritumoraltracts/images/t9.jpg</thumb>
+               <description>Team 9</description>
+          </item>
+          <item>
+
+
+
+
+               <source>/patient1_peritumoraltracts/images/10.jpg</source>
+               <thumb>/patient1_peritumoraltracts/images/t10.jpg</thumb>
+               <description>Team 10
+</description>
+          </item>
+     </items>
+     <galleryName>Art Gallery</galleryName>
+     <settings>
+
+
+
+
+
+
+
+
+
+          <buttons>
+
+
+
+               <navigationButtons>1</navigationButtons>
+               <fullScreenButton>1</fullScreenButton>
+               <slideshowButton>1</slideshowButton>
+               <position>right</position>
+          </buttons>
+          <background>
+
+               <bgColor>16777215</bgColor>
+               <transparentBG>1</transparentBG>
+          </background>
+          <thumbBar>
+
+
+               <useThumbBar>1</useThumbBar>
+               <scrollSpeed>10</scrollSpeed>
+               <position>bottom</position>
+          </thumbBar>
+          <image>
+
+
+
+
+
+               <scaleMode>fill</scaleMode>
+               <transitionDuration>2</transitionDuration>
+               <transitionEffect>fit</transitionEffect>
+               <cornerRadius>10</cornerRadius>
+               <align>center</align>
+               <useShadow>1</useShadow>
+          </image>
+          <caption>
+
+
+
+
+
+
+               <fontName>Arial</fontName>
+               <visibleMode>always</visibleMode>
+               <color>16777215</color>
+               <position>top</position>
+               <bgAlpha>0</bgAlpha>
+               <bgColor>0</bgColor>
+               <fontSize>30</fontSize>
+          </caption>
+          <thumbnail>
+
+
+
+
+
+
+
+               <height>45</height>
+               <outlineColorOnClick>10066329</outlineColorOnClick>
+               <alpha>70</alpha>
+               <outlineColorOnRollOver>6710886</outlineColorOnRollOver>
+               <cornerRadius>0</cornerRadius>
+               <useShadow>1</useShadow>
+               <width>60</width>
+               <outlineColor>3355443</outlineColor>
+          </thumbnail>
+          <preloader>
+
+               <usePreloader>1</usePreloader>
+               <alpha>80</alpha>
+          </preloader>
+          <preview>
+
+
+
+
+
+
+               <height>100</height>
+               <usePreview>1</usePreview>
+               <alpha>100</alpha>
+               <cornerRadius>10</cornerRadius>
+               <useShadow>1</useShadow>
+               <width>200</width>
+               <outlineColor>16777215</outlineColor>
+          </preview>
+          <slideshow>
+
+
+
+               <start>0</start>
+               <delay>2.5</delay>
+               <loop>1</loop>
+               <stopAutoOnClick>1</stopAutoOnClick>
+          </slideshow>
+     </settings>
+</gallery>
