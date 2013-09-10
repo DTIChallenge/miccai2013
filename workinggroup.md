@@ -7,9 +7,6 @@ description: ""
 ---
 {% include JB/setup %}
 
-
-This page is under construction.
-
-
-
-
+The DTI Tractography Challenge is an working group that focuses on the validation of DTI Tractography techniques for neurosurgery.
+The project brings together neurosurgeons and scientific teams, and aims to define standard to ascertain quality features define standards to ascertain
+quality features for surgical guidance.
