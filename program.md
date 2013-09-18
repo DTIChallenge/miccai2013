@@ -32,7 +32,7 @@ The third edition of the MICCAI DTI Tractography Challenge involves 10 tractogra
   *  _Yoshihiro Muragaki M.D., Ph.D., Tokyo Women's Medical University, Japan_
   *  _Yasukazu Kajita, M.D, Ph.D., Nagoya University Graduate School of Medicine, Japan_
   *  _Luke Macyszyn, M.D. University of Pennsylvania, USA_
-  *  _Sandrine de Ribaupierre, M.D., Western University, 	Ontario, Canada_
+  *  "Challenges for clinicians in using DTI" _Sandrine de Ribaupierre, M.D., Western University, 	Ontario, Canada_
 * __14:15-15:15:__ Open Review Session of On-Site Cases 
 * __15:15-15:30:__ Coffee Break 
 * __15:30-15:45:__ Neurosurgical Cases Results, Sonia Pujol, Ph.D., Harvard Medical School
